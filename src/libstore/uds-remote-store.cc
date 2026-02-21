@@ -23,7 +23,7 @@ UDSRemoteStoreConfig::UDSRemoteStoreConfig(const std::filesystem::path & path, c
     : Store::Config{params}
     , LocalFSStore::Config{params}
     , RemoteStore::Config{params}
-    , path{path.empty() ? std::filesystem::path(settings.nixDaemonSocketFile) : path}
+    , path{(path.empty() ? std::filesystem::path(settings.nixDaemonSocketFile) : path).string()}
 {
 }
 
