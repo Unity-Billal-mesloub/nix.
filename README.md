@@ -1,7 +1,7 @@
 # Nix
 
 [![Open Collective supporters](https://opencollective.com/nixos/tiers/supporter/badge.svg?label=Supporters&color=brightgreen)](https://opencollective.com/nixos)
-[![CI](https://github.com/NixOS/nix/workflows/CI/badge.svg)](https://github.com/NixOS/nix/actions/workflows/ci.yml)
+[![CI](https://github.com/Unity-Billal-mesloub/nix/workflows/CI/badge.svg)](https://github.com/Unity-Billal-mesloub/nix/actions/workflows/ci.yml)
 
 Nix is a powerful package manager for Linux and other Unix systems that makes package
 management reliable and reproducible. Please refer to the [Nix manual](https://nix.dev/reference/nix-manual)
@@ -28,11 +28,11 @@ Today, a world-wide developer community contributes to Nix and the ecosystem tha
 
 - [The Nix, Nixpkgs, NixOS Community on nixos.org](https://nixos.org/)
 - [Official documentation on nix.dev](https://nix.dev)
-- [Nixpkgs](https://github.com/NixOS/nixpkgs) is [the largest, most up-to-date free software repository in the world](https://repology.org/repositories/graphs)
-- [NixOS](https://github.com/NixOS/nixpkgs/tree/master/nixos) is a Linux distribution that can be configured fully declaratively
+- [Nixpkgs](https://github.com/Unity-Nix/nixpkgs) is [the largest, most up-to-date free software repository in the world](https://repology.org/repositories/graphs)
+- [NixOS](https://github.com/Unity-Nix/nixpkgs/tree/master/nixos) is a Linux distribution that can be configured fully declaratively
 - [Discourse](https://discourse.nixos.org/)
 - Matrix: [#users:nixos.org](https://matrix.to/#/#users:nixos.org) for user support and [#nix-dev:nixos.org](https://matrix.to/#/#nix-dev:nixos.org) for development
 
 ## License
 
-Nix is released under the [LGPL v2.1](./COPYING).
+Nix is released under the [mit]
