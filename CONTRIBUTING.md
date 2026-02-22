@@ -7,9 +7,9 @@ Reading and following these guidelines will help us make the contribution proces
 
 ## Report a bug
 
-1. Check on the [GitHub issue tracker](https://github.com/NixOS/nix/issues) if your bug was already reported.
+1. Check on the [GitHub issue tracker](https://github.com/Unity-Billal-mesloub/nix/issues) if your bug was already reported.
 
-2. If you were not able to find the bug or feature [open a new issue](https://github.com/NixOS/nix/issues/new/choose)
+2. If you were not able to find the bug or feature [open a new issue](https://github.com/Unity-Billal-mesloub/nix/issues/new/choose)
 
 3. The issue templates will guide you in specifying your issue.
    The more complete the information you provide, the more likely it can be found by others and the more useful it is in the future.
@@ -20,7 +20,7 @@ Reading and following these guidelines will help us make the contribution proces
 
 ## Report a security vulnerability
 
-Check out the [security policy](https://github.com/NixOS/nix/security/policy).
+Check out the [security policy](https://github.com/Unity-Billal-mesloub/nix/security/policy).
 
 ## Making changes to Nix
 
@@ -29,17 +29,17 @@ Check out the [security policy](https://github.com/NixOS/nix/security/policy).
 
    We strongly recommend first-time contributors not to propose new features but rather fix tightly-scoped problems in order to build trust and a working relationship with maintainers.
 
-   Issues labeled [good first issue](https://github.com/NixOS/nix/labels/good%20first%20issue) should be relatively easy to fix and are likely to get merged quickly.
-   Pull requests addressing issues labeled [idea approved](https://github.com/NixOS/nix/labels/idea%20approved) or [RFC](https://github.com/NixOS/nix/labels/RFC) are especially welcomed by maintainers and will receive prioritised review.
+   Issues labeled [good first issue](https://github.com/Unity-Billal-mesloub/nix/labels/good%20first%20issue) should be relatively easy to fix and are likely to get merged quickly.
+   Pull requests addressing issues labeled [idea approved](https://github.com/Unity-Billal-mesloub/nix/labels/idea%20approved) or [RFC](https://github.com/Unity-Billal-mesloub/nix/labels/RFC) are especially welcomed by maintainers and will receive prioritised review.
 
-   If you are proficient with C++, addressing one of the [popular issues](https://github.com/NixOS/nix/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) will be highly appreciated by maintainers and Nix users all over the world.
+   If you are proficient with C++, addressing one of the [popular issues](https://github.com/Unity-Billal-mesloub/nix/issues) will be highly appreciated by maintainers and Nix users all over the world.
    For far-reaching changes, please investigate possible blockers and design implications, and coordinate with maintainers before investing too much time in writing code that may not end up getting merged.
 
-   If there is no relevant issue yet and you're not sure whether your change is likely to be accepted, [open an issue](https://github.com/NixOS/nix/issues/new/choose) yourself.
+   If there is no relevant issue yet and you're not sure whether your change is likely to be accepted, [open an issue](https://github.com/Unity-Billal-mesloub/nix/issues/new/choose) yourself.
 
-2. Check for [pull requests](https://github.com/NixOS/nix/pulls) that might already cover the contribution you are about to make.
+2. Check for [pull requests](https://github.com/Unity-Billal-mesloub/nix/pulls) that might already cover the contribution you are about to make.
    There are many open pull requests that might already do what you intend to work on.
-   You can use [labels](https://github.com/NixOS/nix/labels) to filter for relevant topics.
+   You can use [labels](https://github.com/Unity-Billal-mesloub/nix/labels) to filter for relevant topics.
 
 3. Check the [Nix reference manual](https://nix.dev/manual/nix/development/development/building.html) for information on building Nix and running its tests.
 
@@ -70,11 +70,11 @@ Check out the [security policy](https://github.com/NixOS/nix/security/policy).
    * [Mark the pull request as draft](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request) if you're not done with the changes.
 
 6. Do not expect your pull request to be reviewed immediately.
-   Nix maintainers follow a [structured process for reviews and design decisions](https://github.com/NixOS/nix/tree/master/maintainers#project-board-protocol), which may or may not prioritise your work.
+   Nix maintainers follow a [structured process for reviews and design decisions](https://github.com/Unity-Billal-mesloub/nix/tree/main/maintainers#project-board-protocol), which may or may not prioritise your work.
 
    Following this checklist will make the process smoother for everyone:
 
-   - [ ] Fixes an [idea approved](https://github.com/NixOS/nix/labels/idea%20approved) issue
+   - [ ] Fixes an [idea approved](https://github.com/Unity-Billal-mesloub/nix/labels/idea%20approved) issue
    - [ ] Tests, as appropriate:
      - Functional tests – [`tests/functional/**.sh`](./tests/functional)
      - Unit tests – [`src/*/tests`](./src/)
